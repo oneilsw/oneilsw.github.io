@@ -90,6 +90,10 @@ input, select, textarea {
 
 	}
 
+	h1, h2, h3, h4 {
+		font-weight: bold;
+		}
+
 	@media only screen and (min-width: 576px){
 		img {
 			width: 600px;
