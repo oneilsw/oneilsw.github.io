@@ -99,7 +99,8 @@ input, select, textarea {
 
 	@media only screen and (max-width: 575px){
 		img {
-			width: 250px;
+			width: 325px;
+			
 		}
 	}
 
